@@ -39,12 +39,9 @@ async def help_user(bot, update):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [[
-                  InlineKeyboardButton('👥 ', url='https://t.me/iZaute/5'),
-                  InlineKeyboardButton('  📢', url='https://t.me/iZaute/6')
+                  
                   ],[
-                  InlineKeyboardButton('🙄 ', url='https://t.me/ZauteKm/390'),
-                  InlineKeyboardButton(' 🤖', url='https://t.me/iZaute/8'),
-                  InlineKeyboardButton(' 🤪', url='https://githup.com/ZauteKm')
+                  
                   ],[
                   InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/playlist?list=PLzkiTywVmsSfmhaDdWNZ5PRmmMKGTIxPJ')
             ]]
@@ -81,7 +78,7 @@ async def start(bot, update):
                   ],[
                   
                   ],[
-                  InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/playlist?list=PLzkiTywVmsSfmhaDdWNZ5PRmmMKGTIxPJ')
+                  InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/c/thedesihuman')
             ]]
         ),
         reply_to_message_id=update.message_id
