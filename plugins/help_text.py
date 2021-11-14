@@ -43,7 +43,7 @@ async def help_user(bot, update):
                   ],[
                   
                   ],[
-                  InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/playlist?list=PLzkiTywVmsSfmhaDdWNZ5PRmmMKGTIxPJ')
+                  InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/c/thedesihuman')
             ]]
         ),
         reply_to_message_id=update.message_id
