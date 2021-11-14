@@ -39,12 +39,12 @@ async def help_user(bot, update):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [[
-                  InlineKeyboardButton('👥 Group', url='https://t.me/iZaute/5'),
-                  InlineKeyboardButton(' Channel 📢', url='https://t.me/iZaute/6')
+                  InlineKeyboardButton('👥 ', url='https://t.me/iZaute/5'),
+                  InlineKeyboardButton('  📢', url='https://t.me/iZaute/6')
                   ],[
-                  InlineKeyboardButton('🙄 Source', url='https://t.me/ZauteKm/390'),
-                  InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/iZaute/8'),
-                  InlineKeyboardButton('GitHup 🤪', url='https://githup.com/ZauteKm')
+                  InlineKeyboardButton('🙄 ', url='https://t.me/ZauteKm/390'),
+                  InlineKeyboardButton(' 🤖', url='https://t.me/iZaute/8'),
+                  InlineKeyboardButton(' 🤪', url='https://githup.com/ZauteKm')
                   ],[
                   InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/playlist?list=PLzkiTywVmsSfmhaDdWNZ5PRmmMKGTIxPJ')
             ]]
