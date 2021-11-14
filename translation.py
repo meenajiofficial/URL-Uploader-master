@@ -44,7 +44,7 @@ Telegram ID: <code>{}</code>
 --------
 Send /me to know current plan details
 
-➟ <b>Made by @ZauteKm</b>
+➟ <b>Made by @pankaj148</b>
 """
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
     REPLY_TO_DOC_FOR_C2V = "Reply to a Telegram media to convert"
